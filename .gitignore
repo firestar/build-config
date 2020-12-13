@@ -1,3 +1,4 @@
-templates/*.conf
+output/*.conf
 .idea
 kube/config
+__pycache__
